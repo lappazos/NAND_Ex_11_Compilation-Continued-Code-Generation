@@ -1,0 +1,26 @@
+matanhalfon, lioraryepaz
+===============================================================================
+Lior Paz, ID 206240996, lior.paz1@mail.huji.ac.il
+Matan Halfon, ID 205680648, matan.halfon@mail.huji.ac.il
+===============================================================================
+
+                           Project 11 - Compiler II - Code Generation
+                           -----------------------------------------
+  
+
+Submitted Files
+---------------
+README - This file.
+Makefile
+JackCompiler - script to run Main.py
+Main.py - main python file
+JackTokenizer.py - The tokenizer removes all comments and white space from the input stream and breaks it into
+                   Jack language tokens, as specified in the Jack grammar
+CompilationEngine.py - This module effects the actual compilation into VM form.
+It gets its input from a JackTokenizer and writes its parsed VM structure into
+an output file/stream.
+
+
+Remarks
+-------
+* IT WAS HARD :(
